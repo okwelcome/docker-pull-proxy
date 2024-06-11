@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/ok_welcome/ok_welcome/home-assistant:2024.6
+homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/ok_welcome/home-assistant:2024.6
